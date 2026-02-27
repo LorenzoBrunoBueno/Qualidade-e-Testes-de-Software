@@ -8,8 +8,13 @@
 
 ## "Quais as características de um Tester Ágil?"
 
-### aaaaaaaaa
+### Participa ativamente de todo o processo  
+
+## "Em quais momentos o Testes Ágil aparece no desenvolvimento de um software?"
+
+### 
 
 ## "Quando um code review faz sentido e quando ele deixa de fazer sentido (no mínimo 3 motivos)?"
-
+  
 ### aaaaaaaaaa
+  
