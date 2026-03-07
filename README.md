@@ -16,5 +16,22 @@
 
 ## "Quando um code review faz sentido e quando ele deixa de fazer sentido (no mínimo 3 motivos)?"
   
-### aaaaaaaaaa
+### 
+
+# Anotações Terceira Aula - TDD / BDD
+## Com base em uma rotina de CRUD (incluindo a função Login) em um sistema Web simples, faça um BDD das rotinas do sistema (CRUD + Login).
+### CREATE
+### Dado que estou na tela de cadastro do usuário e insiro o <email> e <senha>, quando clico no botão <Cadastrar> então o sistema cadastra o usuário no banco  
+### GET ONE
+###
+### GET ALL
+###
+### PUT SELF
+### 
+### PUT ADMIN
+###
+### DELETE 
+
+# Anote os princípios de teste                                                                                                                                                                                                                                                                                                                                                                                                                
+
   
