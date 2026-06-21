@@ -11,6 +11,6 @@ C5 - Muito Alto
 * Testes Utilizados
 Teste Funcional, Teste de Regressão, Teste Automatizado
 * Estratégia de Mitigação
-Subir um serviço secundário semelhante para suprir demanda.
+Substituir dependências por soluções internas, delay na atualização para versões novas das dependências, somente após análise. 
 * Tipos de Risco
 Negócio
